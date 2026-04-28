@@ -1,0 +1,6 @@
+{
+  "name": "AI Notification Priority Classifier",
+  "description": "An AI-powered system that automatically analyzes and prioritizes emails and messages to help users focus on what's important.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
